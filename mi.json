@@ -4,7 +4,7 @@
 	"wallpaper": "https://深色壁纸.xxooo.cf/",
 	"sites": [{
 			"key": "豆豆",
-			"name": "🌕【MDCL】",
+			"name": "🌈 MDCL.CN",
 			"type": 3,
 			"api": "csp_DouDou",
 			"searchable": 0,
@@ -654,7 +654,7 @@
 		"regex": ["最 新", "直 播", "更 新"]
 	}],
 	"lives": [{
-		"name": "mdcl",
+		"name": "MDCL",
 		"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
 		"type": 0,
 		"url": "http://zb.mdcl.cn"
