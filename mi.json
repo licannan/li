@@ -657,11 +657,11 @@
 		"name": "MDCL",
 		"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
 		"type": 0,
-		"url": "http://zb.mdcl.cn"
+		"url": "http://live.mdcl.cn"
 	}, {
 		"name": "IPV6",
 		"type": 0,
-		"url": "http://live.mdcl.cn",
+		"url": "http://zb.mdcl.cn",
 		"playerType": 1
 	}]
 }
