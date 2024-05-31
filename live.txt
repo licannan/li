@@ -35,6 +35,16 @@ CCTV17,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://113.64.145.61:8081/hls/38/index.m3u8
 凤凰香港,http://grandprix2023.asuscomm.com:8892/bysid/85.m3u8
+珠江台,http://183.6.110.242:9901/hls/1050/index.m3u8
+珠江台,http://php.jdshipin.com:8880/chudian.php?id=gdzj
+珠江台,http://171.108.239.74:8181/tsfile/live/1001_1.m3u8
+珠江台,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
+珠江台,http://113.101.119.55:8090/hls/105/index.m3u8
+翡翠台,http://113.83.152.64:1936/bysid/1.m3u8
+翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
+翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
+翡翠台,http://61.238.177.254:30261/stream/channelid/1548166379
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 NewTV爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
 NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 NewTV超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
