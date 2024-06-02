@@ -1,4 +1,4 @@
-🌏移动频道,#genre#
+🚀移动频道,#genre#
 CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://39.134.66.66/PLTV/88888888/224/3221225706/index.m3u8
 CCTV2,http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
@@ -48,15 +48,19 @@ CHC家庭影院,http://ssrs2004.win:8888/rtp/239.112.205.205:5140
 珠江台,http://113.101.119.55:8090/hls/105/index.m3u8
 珠江台,http://ddns.cyruslee.top:8888/udp/239.77.0.1:5146
 珠江台,http://ddns.cyruslee.top:8888/udp/239.77.0.114:5146
+翡翠台,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
 翡翠台,http://113.83.152.64:1936/bysid/1.m3u8
 翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 翡翠台,http://61.238.177.254:30261/stream/channelid/1548166379
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 无线星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+无线星河台,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
+无线明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 无线娱乐台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 无线功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 天映经典台,http://171.108.239.74:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+东森电影台,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
 NewTV爱情喜剧,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
 NewTV超级电视剧,http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 NewTV超级电影,http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
@@ -293,7 +297,7 @@ IPTV野外,http://vip.syzkgg.com:8686/rtp/239.253.64.215:5140
 百视通,http://vip.syzkgg.com:8686/rtp/239.253.64.85:5140
 百视通,http://vip.syzkgg.com:8686/rtp/239.253.64.88:5140
 百视通,http://vip.syzkgg.com:8686/rtp/239.253.64.91:5140
-💃上海频道,#genre#
+☀上海频道,#genre#
 CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
 CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
@@ -313,7 +317,7 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 欢笑剧场,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016
 东方购物,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000019/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000019
 东方财经,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000090/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000090
-🏆浙江频道,#genre#
+🎉浙江频道,#genre#
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
@@ -325,20 +329,21 @@ CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 影视娱乐,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
 浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 📡台湾频道,#genre#
+中天新闻台,http://livetv.skycf.eu.org/live.m3u8?c=7
+东森经财台,http://livetv.skycf.eu.org/live.m3u8?c=14
+中天亚洲台,http://startv365.com:80/live/9794783213/6955630461/5555.m3u8
+TVBS新闻台,http://livetv.skycf.eu.org/live.m3u8?c=11
+东森新闻台,http://livetv.skycf.eu.org/live.m3u8?c=6
+三立新闻台,http://livetv.skycf.eu.org/live.m3u8?c=12
+三立LIVE台,http://livetv.skycf.eu.org/live.m3u8?c=3
+中天新闻2,http://livetv.skycf.eu.org/live.m3u8?c=10
+寰宇新闻台,http://livetv.skycf.eu.org/live.m3u8?c=4
+闽镜新闻台,http://livetv.skycf.eu.org/live.m3u8?c=5
+中视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=2
+华视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=13
+公视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=9
+民视新闻台,http://livetv.skycf.eu.org/live.m3u8?c=8
 1,http://livetv.skycf.eu.org/live.m3u8?c=1
-2,http://livetv.skycf.eu.org/live.m3u8?c=2
-3,http://livetv.skycf.eu.org/live.m3u8?c=3
-4,http://livetv.skycf.eu.org/live.m3u8?c=4
-5,http://livetv.skycf.eu.org/live.m3u8?c=5
-6,http://livetv.skycf.eu.org/live.m3u8?c=6
-7,http://livetv.skycf.eu.org/live.m3u8?c=7
-8,http://livetv.skycf.eu.org/live.m3u8?c=8
-9,http://livetv.skycf.eu.org/live.m3u8?c=9
-10,http://livetv.skycf.eu.org/live.m3u8?c=10
-11,http://livetv.skycf.eu.org/live.m3u8?c=11
-12,http://livetv.skycf.eu.org/live.m3u8?c=12
-13,http://livetv.skycf.eu.org/live.m3u8?c=13
-14,http://livetv.skycf.eu.org/live.m3u8?c=14
 15,http://livetv.skycf.eu.org/live.m3u8?c=15
 16,http://61.221.215.25:8800/hls/9/index.m3u8
 17,http://61.221.215.25:8800/hls/1/index.m3u8
@@ -394,7 +399,7 @@ ELEVEN2台,rtmp://f13h.mine.nu/sat/tv741
 57,http://61.221.215.25:8800/hls/57/index.m3u8
 58,http://61.221.215.25:8800/hls/58/index.m3u8
 59,http://61.221.215.25:8800/hls/59/index.m3u8
-📡测试频道,#genre#
+📽️测试频道,#genre#
 1,http://171.108.239.74:8181/tsfile/live/1001_1.m3u8
 2,http://171.108.239.74:8181/tsfile/live/1002_1.m3u8
 3,http://171.108.239.74:8181/tsfile/live/1003_1.m3u8
