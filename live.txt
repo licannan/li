@@ -60,8 +60,10 @@ CHC家庭影院,http://ssrs2004.win:8888/rtp/239.112.205.205:5140
 翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 翡翠台,http://61.238.177.254:30261/stream/channelid/1548166379
 翡翠台,http://113.83.152.64:1936/bysid/1.m3u8
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 无线星河台,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
+无线明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
 无线明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 无线娱乐台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 无线功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
