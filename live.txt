@@ -227,6 +227,8 @@ CCTV-17 农业农村,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.c
 翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
 翡翠台,http://61.238.177.254:30261/stream/channelid/1548166379
 翡翠台,http://113.83.152.64:1936/bysid/1.m3u8
+华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Wlt
+TVBJ2台,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 无线星河台,http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8
