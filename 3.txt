@@ -1,56 +1,103 @@
-咪咕移动,#genre#
-愛爾達體育 1,http://154.9.228.245:741/smt.php?id=eltasport_twn
-愛爾達體育 2,http://154.9.228.245:741/smt.php?id=eltasport2_twn
-愛爾達體育 3,http://154.9.228.245:741/smt.php?id=eltasport3_twn
-Al-Hijrah(備用),http://154.9.228.245:741/smt.php?id=Alhijrah_backup
-歡喜台(備用),http://154.9.228.245:741/smt.php?id=Huahee_backup
-TVB Entertainment,http://154.9.228.245:741/smt.php?id=Tvbentertainment
-Celestial Classic,http://154.9.228.245:741/smt.php?id=Celestial2
-Paramount Network,http://154.9.228.245:741/smt.php?id=Paramountnetwork
-Channel 5(備用),http://154.9.228.245:741/smt.php?id=Ch5_mega
-Channel 8(備用),http://154.9.228.245:741/smt.php?id=Ch8_mega
-Channel U(備用),http://154.9.228.245:741/smt.php?id=ChU_mega
-Vasantham(備用),http://154.9.228.245:741/smt.php?id=Vasantham_mega
-Lifestyle&Fashion,http://154.9.228.245:741/smt.php?id=Lifestyle
-明珠台(備用),http://154.9.228.245:741/smt.php?id=pearl_hkdavid
-翡翠台(備用),http://154.9.228.245:741/smt.php?id=jade_mike
-Skysports Cricket,http://154.9.228.245:741/smt.php?id=tiankongcricket
-Natgeo Wild Tamil,http://154.9.228.245:741/smt.php?id=natgeowildtamil_raj
-Starmaa Movies HD,http://154.9.228.245:741/smt.php?id=starmaamovies_raj
-CNN International,http://154.9.228.245:741/smt.php?id=Cnn
-好萊塢電影台,http://154.9.228.245:741/smt.php?id=hollywoodmovies_twn
-東森財經新聞,http://154.9.228.245:741/smt.php?id=ettvcaijing_twn
-Rock Entertainment,http://154.9.228.245:741/smt.php?id=Rockentertain
-AlQuran AlKareem,http://154.9.228.245:741/smt.php?id=AlQuran
-Skysports Football,http://154.9.228.245:741/smt.php?id=tiankongfootball
-Skysports Racing,http://154.9.228.245:741/smt.php?id=tiankongracing
-Hollywood Movies,http://154.9.228.245:741/smt.php?id=hollywoodmovies_twn
-Boomerang Taiwan,http://154.9.228.245:741/smt.php?id=boomerang_twn
-Channel 3 Thailand,http://154.9.228.245:741/smt.php?id=ch3_pat
-Channel 5 Thailand,http://154.9.228.245:741/smt.php?id=ch5_pat
-Channel 7 Thailand,http://154.9.228.245:741/smt.php?id=ch7_pat
-MCOT HD Thailand-1,http://154.9.228.245:741/smt.php?id=mcot_pat
-BSジャパン 181,http://154.9.228.245:741/smt.php?id=bs181_japan
-BSフジ BS Fuji,http://154.9.228.245:741/smt.php?id=bsfuji_japan
-三立台灣台,http://154.9.228.245:741/smt.php?id=sanlitaiwan
-寰宇新聞台,http://154.9.228.245:741/smt.php?id=huanyuxinwen_twn
-年代新聞台,http://154.9.228.245:741/smt.php?id=niandainews_twn
-非凡新聞台,http://154.9.228.245:741/smt.php?id=feifannews_twn
-Cartoon Network,http://154.9.228.245:741/smt.php?id=Cn
-iNews 新聞台,http://154.9.228.245:741/smt.php?id=inews_twn
-TLC旅遊生活,http://154.9.228.245:741/smt.php?id=tlc_twn
-三立戲劇台,http://154.9.228.245:741/smt.php?id=sanlixiju_twn
-三立綜合台,http://154.9.228.245:741/smt.php?id=sanlizhonghe
-中天亞洲台,http://154.9.228.245:741/smt.php?id=ctiasia_twn
-亞洲旅遊台,http://154.9.228.245:741/smt.php?id=asiatravel_twn
-民視第一台,http://154.9.228.245:741/smt.php?id=lunghuajingdian_twn
-民視台灣台,http://154.9.228.245:741/smt.php?id=ftvtaiwan_twn
-民視新聞台,http://154.9.228.245:741/smt.php?id=ftvnew_taiwan
-台視新聞台,http://154.9.228.245:741/smt.php?id=ttvnews_twn
-中視新聞台,http://154.9.228.245:741/smt.php?id=zhongshinews_twn
-寰宇財經台,http://154.9.228.245:741/smt.php?id=huanyutaiwan_twn
-愛爾達影劇,http://154.9.228.245:741/smt.php?id=eltayingju_twn
-緯來日本台,http://154.9.228.245:741/smt.php?id=videolandjapan
-緯來體育台,http://154.9.228.245:741/smt.php?id=videolandsport
-靖天卡通台,http://154.9.228.245:741/smt.php?id=jingtiancartoon_twn
-靖天國際台,http://154.9.228.245:741/smt.php?id=jingtianintl_twn
+🚀testIPV4,#genre#
+凤凰资讯,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226320/index.m3u8
+凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226317/index.m3u8
+云南卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226063/index.m3u8
+北京卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225502/index.m3u8
+重庆卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225601/index.m3u8
+天津卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225588/index.m3u8
+央视台球,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226083/index.m3u8
+吉林卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225598/index.m3u8
+CCTV-13,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226062/index.m3u8
+CCTV-1,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225490/index.m3u8
+CHC家庭影院,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
+河北卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226328/index.m3u8
+山东卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226326/index.m3u8
+陕西公共,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226334/index.m3u8
+陕西影视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226329/index.m3u8
+江苏卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225504/index.m3u8
+湖南卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225506/index.m3u8
+辽宁卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225593/index.m3u8
+凤凰中文,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
+河南卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226064/index.m3u8
+东方卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225503/index.m3u8
+浙江卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225505/index.m3u8
+四川卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225600/index.m3u8
+江西卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225599/index.m3u8
+深圳卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225592/index.m3u8
+安徽卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225590/index.m3u8
+广东卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225589/index.m3u8
+贵州卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225796/index.m3u8
+湖北卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226322/index.m3u8
+农林卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226335/index.m3u8
+陕西卫视,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
+陕西生活,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226331/index.m3u8
+CCTV-17,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225608/index.m3u8
+CCTV-14,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225604/index.m3u8
+CCTV-10,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225606/index.m3u8
+CCTV-16,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
+CCTV-15,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225854/index.m3u8
+CCTV-12,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225605/index.m3u8
+CCTV-11,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225853/index.m3u8
+CCTV-5+,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225494/index.m3u8
+CCTV-8,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225492/index.m3u8
+CCTV-2,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225612/index.m3u8
+CCTV-9,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225607/index.m3u8
+CCTV-7,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226002/index.m3u8
+CCTV-6,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225609/index.m3u8
+CCTV-5,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225489/index.m3u8
+CCTV-4,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225610/index.m3u8
+CCTV-3,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225611/index.m3u8
+北京纪实科教,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel11001/index.m3u8
+聚鲨环球精选,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel11008/index.m3u8
+北京纪实科教,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel22030/index.m3u8
+劲爆体育,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43038/index.m3u8
+凤凰中文,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
+凤凰资讯,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel52002/index.m3u8
+中国天气,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel11006/index.m3u8
+陕西卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel55/index.m3u8
+海南卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel62/index.m3u8
+环球旅游,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel11005/index.m3u8
+卡酷少儿,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel11003/index.m3u8
+优优宝贝,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel11007/index.m3u8
+东方财经,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41135/index.m3u8
+河北农民,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13004/index.m3u8
+河南公共,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41106/index.m3u8
+嘉佳卡通,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41133/index.m3u8
+中华美食,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel37002/index.m3u8
+人民铁道,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41137/index.m3u8
+四海钓鱼,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43036/index.m3u8
+河北杂技,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13002/index.m3u8
+唐山影视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13112/index.m3u8
+河南民生,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41102/index.m3u8
+CCTV16,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel116/index.m3u8
+CCTV3,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41139/index.m3u8
+CCTV5,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
+CCTV6,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41141/index.m3u8
+CCTV8,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41142/index.m3u8
+河北影视剧,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13006/index.m3u8
+河南电视剧,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41104/index.m3u8
+石家庄都市,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13013/index.m3u8
+石家庄娱乐,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13011/index.m3u8
+石家庄生活,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13012/index.m3u8
+唐山公共,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13113/index.m3u8
+河南新闻,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41105/index.m3u8
+书画频道,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel11009/index.m3u8
+河北公共,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13008/index.m3u8
+河南法治,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41103/index.m3u8
+游戏风云,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel43041/index.m3u8
+车迷频道,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel11004/index.m3u8
+河北都市,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13005/index.m3u8
+河南乡村,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41107/index.m3u8
+河南梨园,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13001/index.m3u8
+甘肃卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel57/index.m3u8
+贵州卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel30/index.m3u8
+宁夏卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel69/index.m3u8
+广西卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel59/index.m3u8
+吉林卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel20/index.m3u8
+河南都市,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41101/index.m3u8
+江西卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel22/index.m3u8
+青海卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel60/index.m3u8
+广东卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel16/index.m3u8
+云南卫视,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel61/index.m3u8
+河南功夫,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41110/index.m3u8
+CCTV11,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41/index.m3u8
