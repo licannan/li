@@ -585,7 +585,7 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"changeable": 0
-		}
+		}, 
 {
          "key":"影视",
          "name":"猫TV直播",        
@@ -890,7 +890,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://download.kstore.space/download/2883/nzk/维奇动漫.json"
-    },
+    }
 	],
 	"doh": [{
 		"name": "Google",
