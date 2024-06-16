@@ -46,20 +46,46 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 热播精选,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-珠江台,http://171.108.239.77:8181/tsfile/live/1001_1.m3u8
-广东影视,http://171.108.239.77:8181/tsfile/live/1002_1.m3u8
-广东体育,http://171.108.239.77:8181/tsfile/live/1004_1.m3u8
-星河频道,http://171.108.239.77:8181/tsfile/live/1005_1.m3u8
-家庭影院HD,http://171.108.239.77:8181/tsfile/live/1006_1.m3u8
-动作电影HD,http://171.108.239.77:8181/tsfile/live/1007_1.m3u8
-高清电影HD,http://171.108.239.77:8181/tsfile/live/1008_1.m3u8
-天映电影,http://171.108.239.77:8181/tsfile/live/1009_1.m3u8
-东森电影,http://171.108.239.77:8181/tsfile/live/1010_1.m3u8
-龙祥电影,http://171.108.239.77:8181/tsfile/live/1011_1.m3u8
-星空卫视,http://171.108.239.77:8181/tsfile/live/1012_1.m3u8
-中国电影,http://171.108.239.77:8181/tsfile/live/1013_1.m3u8
-私人影院,http://171.108.239.77:8181/tsfile/live/1014_1.m3u8
-东森洋片,http://171.108.239.77:8181/tsfile/live/1016_1.m3u8
+翡翠台,https://histar.zapi.us.kg/?id=feicui
+06-14-2024 checked
+HKC 18台,https://histar.zapi.us.kg/?id=hkc18
+J2,https://histar.zapi.us.kg/?id=j2
+TVB 华语剧台,https://histar.zapi.us.kg/?id=tvb-drama
+广东珠江,https://histar.zapi.us.kg/?id=gdzj
+龙祥电影台,https://histar.zapi.us.kg/?id=lstime
+06-16-2024 Hainan checked •1280x720 FasterFaster
+CHC高清电影,https://histar.zapi.us.kg/?id=chc-gqdy
+美亚电影台,https://histar.zapi.us.kg/?id=meiah-movies
+CHC家庭影院,https://histar.zapi.us.kg/?id=chc-jtyy
+06-15-2024 Tianjin checked •960x540
+CHC动作电影,https://histar.zapi.us.kg/?id=chc-dzdy
+好莱坞电影,https://histar.zapi.us.kg/?id=hollywood-movie
+06-15-2024 Hubei checked •960x544 FastestFastestFastest
+HBO Signature HD,https://histar.zapi.us.kg/?id=hbo-signature
+大湾区卫视,https://histar.zapi.us.kg/?id=gdwqws
+TVB粤语片台,https://histar.zapi.us.kg/?id=tvb-yueyu
+Astro 欢喜台,https://histar.zapi.us.kg/?id=astro-huaheedai
+小尼克频道,https://histar.zapi.us.kg/?id=nick-jr
+06-14-2024 checked
+东森幼幼台,https://histar.zapi.us.kg/?id=ebc-yoyo
+Animax 卡通,https://histar.zapi.us.kg/?id=animax-cartoon
+凤凰香港,https://histar.zapi.us.kg/?id=phtv-hk
+06-16-2024 Henan checked •1280x720 FastestFastestFastest
+天映经典,https://histar.zapi.us.kg/?id=cccm
+东森电影,https://histar.zapi.us.kg/?id=ebc-movie
+06-16-2024 Henan checked •1920x1080 FasterFaster
+TVB华剧台,https://histar.zapi.us.kg/?id=golden-chinese-drama
+06-15-2024 Zhejiang checked •1280x720 FasterFaster
+TVB星河台,https://histar.zapi.us.kg/?id=tvb-xinghe
+06-15-2024 Zhejiang checked •1920x1080 FastestFastestFastest
+Now HBO Hits,https://histar.zapi.us.kg/?id=now-hbo-hits
+天映频道,https://histar.zapi.us.kg/?id=celestial
+06-14-2024 checked
+星空卫视,https://histar.zapi.us.kg/?id=star-xing-kong
+06-14-2024 checked
+香港卫视,https://histar.zapi.us.kg/?id=hks
+TVB翡翠台,https://histar.zapi.us.kg/?id=golden-jade
+东森洋片,https://histar.zapi.us.kg/?id=ebc-emovie
 TVB娱乐台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Wlt
 TVBJ2台,http://php.jdshipin.com:8880/smt.php?id=j2_twn
