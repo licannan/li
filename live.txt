@@ -46,55 +46,44 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 热播精选,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-翡翠台,https://histar.zapi.us.kg/?id=feicui
-06-14-2024 checked
-HKC 18台,https://histar.zapi.us.kg/?id=hkc18
-J2,https://histar.zapi.us.kg/?id=j2
-TVB 华语剧台,https://histar.zapi.us.kg/?id=tvb-drama
-广东珠江,https://histar.zapi.us.kg/?id=gdzj
-龙祥电影台,https://histar.zapi.us.kg/?id=lstime
-06-16-2024 Hainan checked •1280x720 FasterFaster
-CHC高清电影,https://histar.zapi.us.kg/?id=chc-gqdy
-美亚电影台,https://histar.zapi.us.kg/?id=meiah-movies
-CHC家庭影院,https://histar.zapi.us.kg/?id=chc-jtyy
-06-15-2024 Tianjin checked •960x540
-CHC动作电影,https://histar.zapi.us.kg/?id=chc-dzdy
-好莱坞电影,https://histar.zapi.us.kg/?id=hollywood-movie
-06-15-2024 Hubei checked •960x544 FastestFastestFastest
-HBO Signature HD,https://histar.zapi.us.kg/?id=hbo-signature
-大湾区卫视,https://histar.zapi.us.kg/?id=gdwqws
-TVB粤语片台,https://histar.zapi.us.kg/?id=tvb-yueyu
-Astro 欢喜台,https://histar.zapi.us.kg/?id=astro-huaheedai
-小尼克频道,https://histar.zapi.us.kg/?id=nick-jr
-06-14-2024 checked
-东森幼幼台,https://histar.zapi.us.kg/?id=ebc-yoyo
-Animax 卡通,https://histar.zapi.us.kg/?id=animax-cartoon
-凤凰香港,https://histar.zapi.us.kg/?id=phtv-hk
-06-16-2024 Henan checked •1280x720 FastestFastestFastest
-天映经典,https://histar.zapi.us.kg/?id=cccm
-东森电影,https://histar.zapi.us.kg/?id=ebc-movie
-06-16-2024 Henan checked •1920x1080 FasterFaster
-TVB华剧台,https://histar.zapi.us.kg/?id=golden-chinese-drama
-06-15-2024 Zhejiang checked •1280x720 FasterFaster
-TVB星河台,https://histar.zapi.us.kg/?id=tvb-xinghe
-06-15-2024 Zhejiang checked •1920x1080 FastestFastestFastest
-Now HBO Hits,https://histar.zapi.us.kg/?id=now-hbo-hits
-天映频道,https://histar.zapi.us.kg/?id=celestial
-06-14-2024 checked
-星空卫视,https://histar.zapi.us.kg/?id=star-xing-kong
-06-14-2024 checked
-香港卫视,https://histar.zapi.us.kg/?id=hks
-TVB翡翠台,https://histar.zapi.us.kg/?id=golden-jade
-东森洋片,https://histar.zapi.us.kg/?id=ebc-emovie
-TVB娱乐台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+翡翠台,http://histar.zapi.us.kg/?id=feicui
+HKC 18台,http://histar.zapi.us.kg/?id=hkc18
+J2,http://histar.zapi.us.kg/?id=j2
+TVB 华语剧台,http://histar.zapi.us.kg/?id=tvb-drama
+广东珠江,http://histar.zapi.us.kg/?id=gdzj
+龙祥电影台,http://histar.zapi.us.kg/?id=lstime
+CHC高清电影,http://histar.zapi.us.kg/?id=chc-gqdy
+美亚电影台,http://histar.zapi.us.kg/?id=meiah-movies
+CHC家庭影院,http://histar.zapi.us.kg/?id=chc-jtyy
+CHC动作电影,http://histar.zapi.us.kg/?id=chc-dzdy
+好莱坞电影,http://histar.zapi.us.kg/?id=hollywood-movie
+HBO Signature HD,http://histar.zapi.us.kg/?id=hbo-signature
+大湾区卫视,http://histar.zapi.us.kg/?id=gdwqws
+TVB粤语片台,http://histar.zapi.us.kg/?id=tvb-yueyu
+Astro 欢喜台,http://histar.zapi.us.kg/?id=astro-huaheedai
+小尼克频道,http://histar.zapi.us.kg/?id=nick-jr
+东森幼幼台,http://histar.zapi.us.kg/?id=ebc-yoyo
+Animax 卡通,http://histar.zapi.us.kg/?id=animax-cartoon
+凤凰香港,http://histar.zapi.us.kg/?id=phtv-hk
+天映经典,http://histar.zapi.us.kg/?id=cccm
+东森电影,http://histar.zapi.us.kg/?id=ebc-movie
+TVB华剧台,http://histar.zapi.us.kg/?id=golden-chinese-drama
+TVB星河台,http://histar.zapi.us.kg/?id=tvb-xinghe
+Now HBO Hits,http://histar.zapi.us.kg/?id=now-hbo-hits
+天映频道,http://histar.zapi.us.kg/?id=celestial
+星空卫视,http://histar.zapi.us.kg/?id=star-xing-kong
+香港卫视,http://histar.zapi.us.kg/?id=hks
+TVB翡翠台,http://histar.zapi.us.kg/?id=golden-jade
+东森洋片,http://histar.zapi.us.kg/?id=ebc-emovie
+TVB娱乐台,http://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Wlt
 TVBJ2台,http://php.jdshipin.com:8880/smt.php?id=j2_twn
-TVB星河台,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB功夫台,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB星河台,http://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
+TVB功夫台,http://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB娱乐台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
-TVB功夫台,https://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-TVB直播台,https://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
+TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
+TVB直播台,http://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
 TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 TVB新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVB星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
@@ -161,16 +150,16 @@ BTV纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/in
 BTV纪实科教,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 咪咕精彩足球,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
 咪咕综合体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-影视娱乐,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 移动IPV6,#genre#
 海南文旅,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000113/1.m3u8
 海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
