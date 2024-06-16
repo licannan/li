@@ -1,65 +1,18 @@
 test,#genre#
-Now HBO Signature,https://histar.zapi.us.kg/?id=now-hbo-signature
-06-15-2024 Guangdong checked •1280x720 FastestFastestFastest
-Now beIN SPORTS 1,https://histar.zapi.us.kg/?id=now-bein-sports1
+翡翠台,https://histar.zapi.us.kg/?id=feicui
 06-14-2024 checked
-Now beIN SPORTS 2,https://histar.zapi.us.kg/?id=now-bein-sports2
-06-14-2024 checked
-Now beIN SPORTS 3,https://histar.zapi.us.kg/?id=now-bein-sports3
-06-14-2024 checked
-AstroWarna Hub版,https://histar.zapi.us.kg/?id=astro-warna-hub
-06-14-2024 checked
-Astro Vellithirai,https://histar.zapi.us.kg/?id=astro-vellithirai
-06-14-2024 checked
-Astro GolfChannel,https://histar.zapi.us.kg/?id=astro-golfchannel
-06-14-2024 checked
-CNN International,https://histar.zapi.us.kg/?id=cnn-international
-06-14-2024 checked
-TRACE Sport Stars,https://histar.zapi.us.kg/?id=trace-sport-stars
-06-14-2024 checked
+HKC 18台,https://histar.zapi.us.kg/?id=hkc18
+J2,https://histar.zapi.us.kg/?id=j2
 TVB 华语剧台,https://histar.zapi.us.kg/?id=tvb-drama
 06-15-2024 Guangdong checked •1280x720 Fast
 Now Sports 英超1,https://histar.zapi.us.kg/?id=now-sports-premier-league1
 06-15-2024 Jiangsu checked •1280x720
-
-美国中文电视,https://histar.zapi.us.kg/?id=sinovision
-06-15-2024 Shanxi checked •1280x720 FasterFaster
 TVB千禧经典台,https://histar.zapi.us.kg/?id=tvb-classic
 06-14-2024 checked
 TVB娱乐新闻台,https://histar.zapi.us.kg/?id=TVB ylxw
-06-14-2024 checked
-澳门莲花卫视,https://histar.zapi.us.kg/?id=lotustv
-06-14-2024 checked
-
-Now Sports精选,https://histar.zapi.us.kg/?id=now-sports-prime
-06-14-2024 checked
-东森财经新闻,https://histar.zapi.us.kg/?id=ebc-finance
-06-14-2024 checked
-镜电视新闻台,https://histar.zapi.us.kg/?id=mnews
-06-14-2024 checked
-猪哥亮歌厅秀,https://histar.zapi.us.kg/?id=zglgtx
-06-14-2024 checked
 MTV Live HD 频道,https://histar.zapi.us.kg/?id=mtv
-06-14-2024 checked
-Astro SuperSport,https://histar.zapi.us.kg/?id=super-sports1
-06-14-2024 checked
-Astro SuperSport 2,https://histar.zapi.us.kg/?id=super-sports2
-06-14-2024 checked
-Astro SuperSport 3,https://histar.zapi.us.kg/?id=super-sports3
-06-14-2024 checked
-
-Astro SuperSport 4,https://histar.zapi.us.kg/?id=super-sports4
-06-14-2024 checked
 HBO Signature HD,https://histar.zapi.us.kg/?id=hbo-signature
-06-14-2024 checked
-ROCK Entertainment,https://histar.zapi.us.kg/?id=rock-entertaiment
-06-14-2024 checked
 amc 最爱电影,https://histar.zapi.us.kg/?id=amc-movie
-06-14-2024 checked
-MyCinema Europe HD,https://histar.zapi.us.kg/?id=mycinema-europe
-06-14-2024 checked
-VOA 美国之音,https://histar.zapi.us.kg/?id=voa
-06-14-2024 checked
 尼克儿童频道,https://histar.zapi.us.kg/?id=nickelodeon
 探索科学频道,https://histar.zapi.us.kg/?id=discovery-sci
 06-14-2024 checked
@@ -72,9 +25,6 @@ History-2 频道,https://histar.zapi.us.kg/?id=history-2
 动物星球频道,https://histar.zapi.us.kg/?id=animal-planet
 06-14-2024 checked
 Asian Food Network,https://histar.zapi.us.kg/?id=asian-food-network
-06-14-2024 checked
-滚动力 rollor,https://histar.zapi.us.kg/?id=rollor
-06-14-2024 checked
 龙祥电影台,https://histar.zapi.us.kg/?id=lstime
 06-16-2024 Hainan checked •1280x720 FasterFaster
 CHC高清电影,https://histar.zapi.us.kg/?id=chc-gqdy
@@ -83,7 +33,6 @@ CHC高清电影,https://histar.zapi.us.kg/?id=chc-gqdy
 06-16-2024 California checked •1280x720
 TVB亚洲剧台,https://histar.zapi.us.kg/?id=tvb-asia-drama
 06-16-2024 Hainan checked •1280x720 FasterFaster
-
 公视台语台,https://histar.zapi.us.kg/?id=pts-ty
 06-16-2024 Central Singapore checked •1280x720 FasterFaster
 寰宇新闻台,https://histar.zapi.us.kg/?id=global-news
@@ -92,7 +41,6 @@ TVB亚洲剧台,https://histar.zapi.us.kg/?id=tvb-asia-drama
 06-16-2024 Guangdong checked •1280x720 FastestFastestFastest
 三立都会台,https://histar.zapi.us.kg/?id=settv-city
 06-16-2024 Central Singapore checked •1280x720 FastestFastestFastest
-
 迪士尼频道,https://histar.zapi.us.kg/?id=disney
 06-16-2024 Guangdong checked •1280x720 FastestFastestFastest
 CHC家庭影院,https://histar.zapi.us.kg/?id=chc-jtyy
@@ -109,24 +57,14 @@ NowViu剧集台,https://histar.zapi.us.kg/?id=now-viu-drama
 06-15-2024 Guangdong checked •1280x720 FastestFastestFastest
 靖天电影台,https://histar.zapi.us.kg/?id=jtdy
 06-15-2024 Shandong checked •1280x720 FastestFastestFastest
-
 靖天戏剧台,https://histar.zapi.us.kg/?id=jtxjt
 06-15-2024 Beijing checked •1280x720
 Astro 爱奇艺,https://histar.zapi.us.kg/?id=astro-iqiyi
 06-15-2024 Beijing checked •1920x1080 FasterFaster
 好莱坞电影,https://histar.zapi.us.kg/?id=hollywood-movie
-06-15-2024 Jiangsu checked •1280x720 FastestFastestFastest
-东京电视台,https://histar.zapi.us.kg/?id=tv-tokyo
 06-15-2024 Hubei checked •960x544 FastestFastestFastest
 大湾区卫视,https://histar.zapi.us.kg/?id=gdwqws
-06-14-2024 checked
-黑龙江卫视,https://histar.zapi.us.kg/?id=heilongjiang
-06-14-2024 checked
-内蒙古卫视,https://histar.zapi.us.kg/?id=neimenggu
 TVB粤语片台,https://histar.zapi.us.kg/?id=tvb-yueyu
-06-14-2024 checked
-HOY国际财经,https://histar.zapi.us.kg/?id=hoy-ibc
-06-14-2024 checked
 港台电视 31,https://histar.zapi.us.kg/?id=rthk31
 06-14-2024 checked
 港台电视 32,https://histar.zapi.us.kg/?id=rthk32
@@ -140,87 +78,18 @@ Now Sports Plus,https://histar.zapi.us.kg/?id=now-sports-plus
 三立综合台,https://histar.zapi.us.kg/?id=settv-zonghe
 06-14-2024 checked
 东森综合台,https://histar.zapi.us.kg/?id=ebc-ettv
-06-14-2024 checked
-中视菁采台,https://histar.zapi.us.kg/?id=bravo
-06-14-2024 checked
-KLT-靖天国际台,https://histar.zapi.us.kg/?id=jtgj
-06-14-2024 checked
-
 靖天综合台,https://histar.zapi.us.kg/?id=jtzh
 06-14-2024 checked
 靖天日本台,https://histar.zapi.us.kg/?id=jtrb
-06-14-2024 checked
-客家电视台,https://histar.zapi.us.kg/?id=hakkatv
-06-14-2024 checked
-寰宇财经台,https://histar.zapi.us.kg/?id=global-finance
-06-14-2024 checked
-
-民视新闻台,https://histar.zapi.us.kg/?id=ftv-news
-06-14-2024 checked
-SBN 全球财经台,https://histar.zapi.us.kg/?id=sbn
-06-14-2024 checked
-靖天资讯台,https://histar.zapi.us.kg/?id=jtzx
-06-14-2024 checked
-龙华戏剧台,https://histar.zapi.us.kg/?id=ltv-xiju
-06-14-2024 checked
-龙华日韩台,https://histar.zapi.us.kg/?id=ltv-rihan
-06-14-2024 checked
-八大精彩台,https://histar.zapi.us.kg/?id=gtv-jct
-06-14-2024 checked
-采昌影剧台,https://histar.zapi.us.kg/?id=caichang
-06-14-2024 checked
 三立戏剧台,https://histar.zapi.us.kg/?id=settv-drama
 06-14-2024 checked
-
 中视经典台,https://histar.zapi.us.kg/?id=ctv-classic
-06-14-2024 checked
-靖洋戏剧台,https://histar.zapi.us.kg/?id=jyxj
-06-14-2024 checked
-ChannelNewsAsia,https://histar.zapi.us.kg/?id=channelnewsasia
-06-14-2024 checked
-Mediacorp Suria,https://histar.zapi.us.kg/?id=mediacorp-suria
-06-14-2024 checked
-Mediacorp Vasantham,https://histar.zapi.us.kg/?id=mediacorp-vasantham
-06-14-2024 checked
 Astro 欢喜台,https://histar.zapi.us.kg/?id=astro-huaheedai
-06-14-2024 checked
-GINX Esports TV,https://histar.zapi.us.kg/?id=ginx-esports
-智林体育台,https://histar.zapi.us.kg/?id=zl-sports
-06-14-2024 checked
-新时代电视,https://histar.zapi.us.kg/?id=fairchildtv
-06-14-2024 checked
-fun 探索娱乐台,https://histar.zapi.us.kg/?id=festival4k
-06-14-2024 checked
-DW 德国之声,https://histar.zapi.us.kg/?id=dw
-06-14-2024 checked
 黑龙江都市,https://histar.zapi.us.kg/?id=hljds
 06-14-2024 checked
 小尼克频道,https://histar.zapi.us.kg/?id=nick-jr
 06-14-2024 checked
 东森幼幼台,https://histar.zapi.us.kg/?id=ebc-yoyo
-06-14-2024 checked
-靖天卡通台,https://histar.zapi.us.kg/?id=jtkt
-06-14-2024 checked
-靖天育乐台,https://histar.zapi.us.kg/?id=jtyl
-06-14-2024 checked
-i-Fun 动漫台,https://histar.zapi.us.kg/?id=i-fun
-06-14-2024 checked
-ELTV生活英語台,https://histar.zapi.us.kg/?id=eltv
-06-14-2024 checked
-
-达文西频道,https://histar.zapi.us.kg/?id=da-vinci
-06-14-2024 checked
-亚洲旅游台,https://histar.zapi.us.kg/?id=asia-travel
-06-14-2024 checked
-LUXE TV Channel,https://histar.zapi.us.kg/?id=luxe-tv
-06-14-2024 checked
-日本电视台,https://histar.zapi.us.kg/?id=nippon-tv
-06-14-2024 checked
-
-富士电视台,https://histar.zapi.us.kg/?id=fujitv
-06-14-2024 checked
-朝日电视台,https://histar.zapi.us.kg/?id=tv-asahi
-06-14-2024 checked
 TVBS 新闻台,https://histar.zapi.us.kg/?id=tvbs-news
 06-16-2024 Beijing checked •1280x720 FasterFaster
 Astro AOD 311 粤语,https://histar.zapi.us.kg/?id=astro-aod-311-hk
@@ -233,43 +102,9 @@ Now Sports 641,https://histar.zapi.us.kg/?id=now-sports641
 06-14-2024 checked
 TVBS 精采台,https://histar.zapi.us.kg/?id=tvbs-jc
 06-14-2024 checked
-
 TVBS 欢乐台,https://histar.zapi.us.kg/?id=tvbs-huanle
-06-14-2024 checked
-韩国娱乐台 KMTV,https://histar.zapi.us.kg/?id=kmtv
-06-14-2024 checked
-ELTA 娱乐台,https://histar.zapi.us.kg/?id=elta-ylt
-06-14-2024 checked
-HubSports Plus,https://histar.zapi.us.kg/?id=hubsports-plus
-06-14-2024 checked
-Astro Arena HD,https://histar.zapi.us.kg/?id=astro-arena-hd
-06-14-2024 checked
-Astro Vaanavil,https://histar.zapi.us.kg/?id=astro-vaanavil
-06-14-2024 checked
-Astro TUTOR TV,https://histar.zapi.us.kg/?id=astro-tutor-tv
-ELTA体育4台,https://histar.zapi.us.kg/?id=elta-sport4
-06-14-2024 checked
-博斯运动-1,https://histar.zapi.us.kg/?id=sportcast1
-06-14-2024 checked
-博斯运动-2,https://histar.zapi.us.kg/?id=sportcast2
-06-14-2024 checked
-博斯高球-1,https://histar.zapi.us.kg/?id=sportcast-golf1
-06-14-2024 checked
-博斯高球-2,https://histar.zapi.us.kg/?id=sportcast-golf2
-06-14-2024 checked
-时尚运动 X,https://histar.zapi.us.kg/?id=ssydx
-06-14-2024 checked
-BBC World News,https://histar.zapi.us.kg/?id=bbc-world-news
-06-14-2024 checked
-MOMO 亲子台,https://histar.zapi.us.kg/?id=momo-kids
-06-14-2024 checked
-History 频道,https://histar.zapi.us.kg/?id=history
-06-14-2024 checked
-ELTA 生活旅游台,https://histar.zapi.us.kg/?id=elta-lifetravel
-06-14-2024 checked
 Now 爆谷台,https://histar.zapi.us.kg/?id=baogu-movies
 06-16-2024 Central Singapore checked •1280x720 Fast
-
 Now 星影台,https://histar.zapi.us.kg/?id=now-baogu-superstars
 06-16-2024 Jiangsu checked •1280x720 FasterFaster
 TVBS综艺台,https://histar.zapi.us.kg/?id=tvbs-zongyi
@@ -278,69 +113,17 @@ TVBS台剧台,https://histar.zapi.us.kg/?id=tvbs-taiju
 06-16-2024 checked •1280x720
 Now 新闻台,https://histar.zapi.us.kg/?id=now-news
 06-15-2024 Shandong checked •1280x720 FastestFastestFastest
-
 Now 直播台,https://histar.zapi.us.kg/?id=now-direct
 06-15-2024 Kowloon checked •1280x720 FastestFastestFastest
 Animax 卡通,https://histar.zapi.us.kg/?id=animax-cartoon
 06-15-2024 Jiangsu checked •1280x720 FasterFaster
 CI 罪案侦查频道,https://histar.zapi.us.kg/?id=ci
-06-15-2024 Jiangsu checked •1280x720 FastestFastestFastest
-TVB 明珠台,https://histar.zapi.us.kg/?id=pearl
-06-14-2024 checked
-HOY 资讯台,https://histar.zapi.us.kg/?id=hoy-info
-06-14-2024 checked
-Now 财经台,https://histar.zapi.us.kg/?id=now-finance
-06-14-2024 checked
-ELTA综合台,https://histar.zapi.us.kg/?id=elta-zonghe
-06-14-2024 checked
-寰宇新闻台湾台,https://histar.zapi.us.kg/?id=global-news-tw
-06-14-2024 checked
-
-半岛国际新闻台,https://histar.zapi.us.kg/?id=aljazeera
-06-14-2024 checked
-影迷数位纪实台,https://histar.zapi.us.kg/?id=ymswjst
-06-14-2024 checked
-影迷数字电影台,https://histar.zapi.us.kg/?id=fans-cinema
-06-14-2024 checked
-GlobalTrekker,https://histar.zapi.us.kg/?id=globaltrekker
-06-14-2024 checked
-Hub Premier 1,https://histar.zapi.us.kg/?id=hubpremier1
-06-14-2024 checked
-Astro Arena 2,https://histar.zapi.us.kg/?id=astro-arena2
-06-14-2024 checked
-Astro Vinmeen,https://histar.zapi.us.kg/?id=astro-vinmeen
-beIN Sports 2,https://histar.zapi.us.kg/?id=beinsports2
-06-14-2024 checked
-beIN Sports 3,https://histar.zapi.us.kg/?id=beinsports3
-06-14-2024 checked
-ELTA 体育-1,https://histar.zapi.us.kg/?id=elta-sport1
-06-14-2024 checked
-ELTA 体育-2,https://histar.zapi.us.kg/?id=elta-sport2
-06-14-2024 checked
-ELTA 体育-3,https://histar.zapi.us.kg/?id=elta-sport3
-06-14-2024 checked
-myTV SUPER 18,https://histar.zapi.us.kg/?id=mytvsuper-18
-06-14-2024 checked
-PremierSports,https://histar.zapi.us.kg/?id=premiersports
-06-14-2024 checked
-新时代电视二台,https://histar.zapi.us.kg/?id=fairchildtv2
-06-14-2024 checked
 HBO Family HD,https://histar.zapi.us.kg/?id=hbo-family
-06-14-2024 checked
-Lifetime 娱乐频道,https://histar.zapi.us.kg/?id=lifetime
-06-14-2024 checked
 EYE 旅游台,https://histar.zapi.us.kg/?id=eye-travel
-06-14-2024 checked
-
-NHK Education,https://histar.zapi.us.kg/?id=nhk-e
 06-14-2024 checked
 凤凰香港,https://histar.zapi.us.kg/?id=phtv-hk
 06-16-2024 Henan checked •1280x720 FastestFastestFastest
 天映经典,https://histar.zapi.us.kg/?id=cccm
-06-16-2024 Guangdong checked •1024x576 FastestFastestFastest
-澳视澳门,https://histar.zapi.us.kg/?id=tdm
-06-16-2024 Guangdong checked •1280x720 FastestFastestFastest
-
 纬来综合,https://histar.zapi.us.kg/?id=videoland
 06-16-2024 Beijing checked •1280x720 FasterFaster
 中天新闻,https://histar.zapi.us.kg/?id=cti-news
@@ -357,7 +140,6 @@ TVB华剧台,https://histar.zapi.us.kg/?id=golden-chinese-drama
 06-15-2024 Zhejiang checked •1280x720 FasterFaster
 TVB星河台,https://histar.zapi.us.kg/?id=tvb-xinghe
 06-15-2024 Zhejiang checked •1920x1080 FastestFastestFastest
-
 Now HBO Hits,https://histar.zapi.us.kg/?id=now-hbo-hits
 06-15-2024 Guangxi checked •1280x720 FasterFaster
 Now Sports 2,https://histar.zapi.us.kg/?id=now-sports-2
@@ -393,7 +175,6 @@ Now华剧台,https://histar.zapi.us.kg/?id=now-chinese-drama
 06-14-2024 checked
 东南卫视,https://histar.zapi.us.kg/?id=dongnan
 06-14-2024 checked
-
 广西卫视,https://histar.zapi.us.kg/?id=guangxi
 06-14-2024 checked
 贵州卫视,https://histar.zapi.us.kg/?id=guizhou
@@ -402,7 +183,6 @@ Now华剧台,https://histar.zapi.us.kg/?id=now-chinese-drama
 06-14-2024 checked
 河北卫视,https://histar.zapi.us.kg/?id=hebei
 06-14-2024 checked
-
 湖北卫视,https://histar.zapi.us.kg/?id=hubei
 06-14-2024 checked
 江西卫视,https://histar.zapi.us.kg/?id=jiangxi
@@ -419,7 +199,6 @@ Now华剧台,https://histar.zapi.us.kg/?id=now-chinese-drama
 06-14-2024 checked
 山西卫视,https://histar.zapi.us.kg/?id=shanxi
 06-14-2024 checked
-
 四川卫视,https://histar.zapi.us.kg/?id=sichuan
 06-14-2024 checked
 天津卫视,https://histar.zapi.us.kg/?id=tianjin
@@ -450,27 +229,6 @@ TVB翡翠台,https://histar.zapi.us.kg/?id=golden-jade
 星空卫视,https://histar.zapi.us.kg/?id=star-xing-kong
 06-14-2024 checked
 香港卫视,https://histar.zapi.us.kg/?id=hks
-06-14-2024 checked
-澳亚卫视,https://histar.zapi.us.kg/?id=mastv
-06-14-2024 checked
-澳门卫视,https://histar.zapi.us.kg/?id=mstv
-06-14-2024 checked
-
-澳门资讯,https://histar.zapi.us.kg/?id=tdm-information
-06-14-2024 checked
-Now报价台,https://histar.zapi.us.kg/?id=now-data
-06-14-2024 checked
-Now Sports 1,https://histar.zapi.us.kg/?id=now-sports-1
-06-14-2024 Kowloon checked •1280x720 FastestFastestFastest
-Now Sports 3,https://histar.zapi.us.kg/?id=now-sports-3
-06-14-2024 checked
-
-Now Sports 4,https://histar.zapi.us.kg/?id=now-sports-4
-06-14-2024 checked
-Now Sports 5,https://histar.zapi.us.kg/?id=now-sports-5
-06-14-2024 checked
-Now Sports 6,https://histar.zapi.us.kg/?id=now-sports-6
-06-14-2024 checked
 纬来日本,https://histar.zapi.us.kg/?id=videoland-japan
 06-14-2024 checked
 八大综合,https://histar.zapi.us.kg/?id=gtv28
@@ -480,16 +238,7 @@ Now Sports 6,https://histar.zapi.us.kg/?id=now-sports-6
 中天亚洲,https://histar.zapi.us.kg/?id=cti-asia
 06-14-2024 checked
 中天综合,https://histar.zapi.us.kg/?id=ctitv36
-06-14-2024 checked
 
-大爱一台,https://histar.zapi.us.kg/?id=daai1
-06-14-2024 checked
-大爱二台,https://histar.zapi.us.kg/?id=daai2
-06-14-2024 checked
-非凡新闻,https://histar.zapi.us.kg/?id=unique-business-news
-06-14-2024 checked
-年代新闻,https://histar.zapi.us.kg/?id=era-news
-06-14-2024 checked
 台视新闻,https://histar.zapi.us.kg/?id=ttv-news
 06-14-2024 checked
 华视新闻,https://histar.zapi.us.kg/?id=cts-news
@@ -517,7 +266,6 @@ Now Sports 6,https://histar.zapi.us.kg/?id=now-sports-6
 06-14-2024 checked
 HubPremier 4,https://histar.zapi.us.kg/?id=hubpremier4
 06-14-2024 checked
-
 HubPremier 5,https://histar.zapi.us.kg/?id=hubpremier5
 06-14-2024 checked
 AstroPremier,https://histar.zapi.us.kg/?id=astropremier
@@ -526,7 +274,6 @@ AstroPremier,https://histar.zapi.us.kg/?id=astropremier
 06-14-2024 checked
 上海新闻,https://histar.zapi.us.kg/?id=shxw
 06-14-2024 checked
-
 博斯无限,https://histar.zapi.us.kg/?id=sportcast-wx
 06-14-2024 checked
 博斯魅力,https://histar.zapi.us.kg/?id=sportcast-meili
@@ -543,7 +290,6 @@ Eurosports-1,https://histar.zapi.us.kg/?id=eurosports-1
 06-14-2024 checked
 劲爆体育,https://histar.zapi.us.kg/?id=jbty
 06-14-2024 checked
-
 广东体育,https://histar.zapi.us.kg/?id=gdty
 06-14-2024 checked
 第一财经,https://histar.zapi.us.kg/?id=yicai
@@ -579,165 +325,22 @@ Boomerang HD,https://histar.zapi.us.kg/?id=boomerang-hd
 06-14-2024 checked
 探索频道,https://histar.zapi.us.kg/?id=discovery
 06-14-2024 checked
-
 民视旅游,https://histar.zapi.us.kg/?id=ftv-travel
-06-14-2024 checked
-Astro Rania,https://histar.zapi.us.kg/?id=astro-rania
-06-16-2024 Shandong checked •1280x720 FastestFastestFastest
-Now Lucky 688 欧洲杯,https://histar.zapi.us.kg/?id=now-lucky-688
-06-15-2024 Kowloon City checked •1280x720 FasterFaster
-ARIRANG 阿里郎频道,https://histar.zapi.us.kg/?id=arirang
-06-14-2024 checked
-
-三立iNews,https://histar.zapi.us.kg/?id=settv-inews
-06-14-2024 checked
-TV Alhijrah,https://histar.zapi.us.kg/?id=tv-alhijrah
-06-14-2024 checked
-ColorsHindi,https://histar.zapi.us.kg/?id=colorshindi
-06-14-2024 checked
-DramaSangat,https://histar.zapi.us.kg/?id=dramasangat
-06-14-2024 checked
-ColorsTamil,https://histar.zapi.us.kg/?id=colorstamil
-06-14-2024 checked
-ZeeCinemaHD,https://histar.zapi.us.kg/?id=zeecinemahd
-06-14-2024 checked
-HubSports 1,https://histar.zapi.us.kg/?id=hubsports1
-06-14-2024 checked
-HubPremier2,https://histar.zapi.us.kg/?id=hubpremier2
-06-14-2024 checked
-
-HubPremier3,https://histar.zapi.us.kg/?id=hubpremier3
-06-14-2024 checked
-Hub Sensasi,https://histar.zapi.us.kg/?id=hub-sensasi
-06-14-2024 checked
-Arena Bola2,https://histar.zapi.us.kg/?id=arena-bola2
-06-14-2024 checked
-Astro Awani,https://histar.zapi.us.kg/?id=astro-awani
-06-14-2024 checked
-Astro Citra,https://histar.zapi.us.kg/?id=astro-citra
-06-14-2024 checked
-Astro Prima,https://histar.zapi.us.kg/?id=astro-prima
-06-14-2024 checked
-Astro Ceria,https://histar.zapi.us.kg/?id=astro-ceria
-Astro Warna,https://histar.zapi.us.kg/?id=astro-warna
-06-14-2024 checked
-Astro Oasis,https://histar.zapi.us.kg/?id=astro-oasis
-06-14-2024 checked
-beIN Sports,https://histar.zapi.us.kg/?id=beinsports
-06-14-2024 checked
-HBO Hits HD,https://histar.zapi.us.kg/?id=hbo-hits-hd
-06-14-2024 checked
-ROCK Action,https://histar.zapi.us.kg/?id=rock-action
-06-14-2024 checked
-Love Nature,https://histar.zapi.us.kg/?id=love-nature
-06-14-2024 checked
-NHK General,https://histar.zapi.us.kg/?id=nhk-g
-06-14-2024 checked
-公视3台,https://histar.zapi.us.kg/?id=pts-3
-06-16-2024 Guangdong checked •1280x720 FasterFaster
-HITSMovies,https://histar.zapi.us.kg/?id=hitsmovies
-06-16-2024 Thừa Thiên Huế Province checked •1920x1080 Fast
-Now Sports 618 欧洲杯,https://histar.zapi.us.kg/?id=now-sports-618
-06-15-2024 Jiangsu checked •1280x720 FasterFaster
 Now jelli紫金国际台,https://histar.zapi.us.kg/?id=now-jelli
 06-15-2024 Jiangsu checked •1280x720 Fast
-
 HBO Now115,https://histar.zapi.us.kg/?id=Now-HBO
 06-15-2024 Beijing checked •1280x720 Fast
 tvN Movies,https://histar.zapi.us.kg/?id=tvn-movies
 06-15-2024 Hubei checked •1280x720 FasterFaster
 Now Sports 619 欧洲杯,https://histar.zapi.us.kg/?id=now-sports-619
-06-14-2024 checked
-MovieMovie,https://histar.zapi.us.kg/?id=moviemovie
-06-14-2024 checked
-
-Now Golf 2,https://histar.zapi.us.kg/?id=now-golf2
-06-14-2024 checked
-Now Golf 3,https://histar.zapi.us.kg/?id=now-golf3
-06-14-2024 checked
-视纳华仁纪实频道,https://histar.zapi.us.kg/?id=cnex
-06-14-2024 checked
-HubSports2,https://histar.zapi.us.kg/?id=hubsports2
-06-14-2024 checked
-HubSports3,https://histar.zapi.us.kg/?id=hubsports3
-06-14-2024 checked
-Arena Bola,https://histar.zapi.us.kg/?id=arena-bola
-06-14-2024 checked
-Astro Aura,https://histar.zapi.us.kg/?id=astro-aura
-06-14-2024 checked
-Tech Storm,https://histar.zapi.us.kg/?id=tech-storm
-06-14-2024 checked
-
-翡翠台,https://histar.zapi.us.kg/?id=feicui
-06-14-2024 checked
-HKC 18台,https://histar.zapi.us.kg/?id=hkc18
-06-14-2024 checked
-TVBS Asia,https://histar.zapi.us.kg/?id=tvbs-asia
-06-14-2024 checked
-好消息,https://histar.zapi.us.kg/?id=goodtv
-06-14-2024 checked
-Channel 5,https://histar.zapi.us.kg/?id=channel-5
-06-14-2024 checked
-Channel 8,https://histar.zapi.us.kg/?id=channel8
-06-14-2024 checked
-Channel U,https://histar.zapi.us.kg/?id=channel-u
-TVB Magic,https://histar.zapi.us.kg/?id=tvb-magic
-06-14-2024 checked
-BeritaRTM,https://histar.zapi.us.kg/?id=beritartm
-06-14-2024 checked
-AwesomeTV,https://histar.zapi.us.kg/?id=awesometv
-06-14-2024 checked
-StarVijay,https://histar.zapi.us.kg/?id=starvijay
-06-14-2024 checked
 Hub都会,https://histar.zapi.us.kg/?id=HubECity
 06-14-2024 checked
 Hub娱家,https://histar.zapi.us.kg/?id=HubVVDrama
-06-14-2024 checked
-HubSport4,https://histar.zapi.us.kg/?id=hubsports4
-06-14-2024 checked
-Astro AEC,https://histar.zapi.us.kg/?id=astro-aec
-06-14-2024 checked
-Astro RIA,https://histar.zapi.us.kg/?id=astro-ria
-06-14-2024 checked
-Astro ONE,https://histar.zapi.us.kg/?id=astro-one
-06-14-2024 checked
-Bloomberg,https://histar.zapi.us.kg/?id=bloomberg
-06-14-2024 checked
-
-JSPORTS 1,https://histar.zapi.us.kg/?id=jsports1
-06-14-2024 checked
-JSPORTS 2,https://histar.zapi.us.kg/?id=jsports2
-06-14-2024 checked
-JSPORTS 3,https://histar.zapi.us.kg/?id=jsports3
-06-14-2024 checked
-JSPORTS 4,https://histar.zapi.us.kg/?id=jsports4
-06-14-2024 checked
-
 KBS Drama,https://histar.zapi.us.kg/?id=kbs-drama
 06-14-2024 checked
 KBS Story,https://histar.zapi.us.kg/?id=kbs-story
 06-14-2024 checked
 TVB PLUS,https://histar.zapi.us.kg/?id=tvb-plus
-06-16-2024 Guangdong checked •1280x720 FasterFaster
-LiveABC 互动英语频道,https://histar.zapi.us.kg/?id=liveabc
-06-14-2024 checked
-SukanRTM,https://histar.zapi.us.kg/?id=sukanrtm
-06-14-2024 checked
-ShowCase,https://histar.zapi.us.kg/?id=showcase
-06-14-2024 checked
-BBCEarth,https://histar.zapi.us.kg/?id=bbcearth
-06-14-2024 checked
-SunMusic,https://histar.zapi.us.kg/?id=sunmusic
-06-14-2024 checked
-
-DidikTV7,https://histar.zapi.us.kg/?id=didiktv7
-06-14-2024 checked
-ZeeTamil,https://histar.zapi.us.kg/?id=zeetamil
-06-14-2024 checked
-ONEMalay,https://histar.zapi.us.kg/?id=one-malay
-06-14-2024 checked
-Astro QJ,https://histar.zapi.us.kg/?id=astro-quanjia
-06-14-2024 checked
 myTV SUPER直播足球1台,https://histar.zapi.us.kg/?id=mytv-super-soccer1
 06-14-2024 checked
 myTV SUPER直播足球2台,https://histar.zapi.us.kg/?id=mytv-super-soccer2
@@ -754,27 +357,12 @@ DreamWorks 梦工厂动画,https://histar.zapi.us.kg/?id=dreamworks
 CN卡通,https://histar.zapi.us.kg/?id=cn-cartoon
 06-14-2024 checked
 车迷TV,https://histar.zapi.us.kg/?id=motorvision
-06-14-2024 checked
-KBS Life,https://histar.zapi.us.kg/?id=kbs-life
-06-14-2024 checked
-KBS Kids,https://histar.zapi.us.kg/?id=kbs-kids
-06-14-2024 checked
-KBSWorld,https://histar.zapi.us.kg/?id=kbsworld
-06-14-2024 checked
-KBS NEWS,https://histar.zapi.us.kg/?id=kbs-news
-06-14-2024 checked
-SBS Plus,https://histar.zapi.us.kg/?id=sbs-plus
-06-14-2024 checked
-
-SBS funE,https://histar.zapi.us.kg/?id=sbs-fune
-06-14-2024 checked
 Now 668,https://histar.zapi.us.kg/?id=now-668
 06-15-2024 Zhejiang checked •1280x720 FastestFastestFastest
 Now NBA,https://histar.zapi.us.kg/?id=now-nba
 06-14-2024 Kowloon checked •1152x648 FasterFaster
 TVBS HD,https://histar.zapi.us.kg/?id=tvbs-hd
 06-14-2024 checked
-
 SunNews,https://histar.zapi.us.kg/?id=sunnews
 06-14-2024 checked
 Adithya,https://histar.zapi.us.kg/?id=adithya
@@ -791,7 +379,6 @@ SPOTV-2,https://histar.zapi.us.kg/?id=spotv2
 06-14-2024 checked
 W-Sport,https://histar.zapi.us.kg/?id=w-sport
 06-14-2024 checked
-
 Cinemax,https://histar.zapi.us.kg/?id=cinemax
 06-14-2024 checked
 KBS Joy,https://histar.zapi.us.kg/?id=kbs-joy
@@ -827,35 +414,11 @@ CCTV16,https://histar.zapi.us.kg/?id=cctv16
 06-14-2024 checked
 CCTV17,https://histar.zapi.us.kg/?id=cctv17
 06-14-2024 checked
-
-ViuTV6,https://histar.zapi.us.kg/?id=viutv6
-06-14-2024 checked
-Thrill,https://histar.zapi.us.kg/?id=thrill
-06-14-2024 checked
-tvn HD,https://histar.zapi.us.kg/?id=tvnhd
-06-14-2024 checked
-ESPN 2,https://histar.zapi.us.kg/?id=espn2
-06-14-2024 checked
-
-ESPN 3,https://histar.zapi.us.kg/?id=espn3
-06-14-2024 checked
-ESPN 4,https://histar.zapi.us.kg/?id=espn4
-06-14-2024 checked
-DAZN 1,https://histar.zapi.us.kg/?id=eleven-sport1
-06-14-2024 checked
-DAZN 2,https://histar.zapi.us.kg/?id=eleven-sport2
-06-14-2024 checked
-TBS TV,https://histar.zapi.us.kg/?id=tbs-tv
-06-14-2024 checked
 CCTV2,https://histar.zapi.us.kg/?id=cctv2
 06-15-2024 Castries checked •1280x720 FasterFaster
 CCTV1,https://histar.zapi.us.kg/?id=cctv1
 06-15-2024 Phnom Penh checked •1280x720
 CCTV5,https://histar.zapi.us.kg/?id=cctv5
-06-15-2024 Hainan checked •1280x720 FastestFastestFastest
-
-ViuTV,https://histar.zapi.us.kg/?id=viutv
-06-15-2024 Thừa Thiên Huế Province checked •1280x720 FasterFaster
 CCTV3,https://histar.zapi.us.kg/?id=cctv3
 06-14-2024 checked
 CCTV4,https://histar.zapi.us.kg/?id=cctv4
@@ -867,61 +430,3 @@ CCTV7,https://histar.zapi.us.kg/?id=cctv7
 CCTV8,https://histar.zapi.us.kg/?id=cctv8
 06-14-2024 checked
 CCTV9,https://histar.zapi.us.kg/?id=cctv9
-SunTV,https://histar.zapi.us.kg/?id=suntv
-06-14-2024 checked
-KTVHD,https://histar.zapi.us.kg/?id=ktvhd
-06-14-2024 checked
-SPOTV,https://histar.zapi.us.kg/?id=spotv
-06-14-2024 checked
-KBS 1,https://histar.zapi.us.kg/?id=kbs-1
-06-14-2024 checked
-KBS 2,https://histar.zapi.us.kg/?id=kbs-2
-06-14-2024 checked
-SBS M,https://histar.zapi.us.kg/?id=sbs-m
-06-14-2024 checked
-E乐,https://histar.zapi.us.kg/?id=singtel-tv
-06-14-2024 checked
-OKEY,https://histar.zapi.us.kg/?id=okey
-06-14-2024 checked
-ESPN,https://histar.zapi.us.kg/?id=espn
-06-14-2024 checked
-CNBC,https://histar.zapi.us.kg/?id=cnbc
-06-14-2024 checked
-DMAX,https://histar.zapi.us.kg/?id=dmax
-06-14-2024 checked
-
-tvN,https://histar.zapi.us.kg/?id=tvn
-06-15-2024 Zhejiang checked •1280x720 Fast
-WWE,https://histar.zapi.us.kg/?id=wwe
-06-15-2024 Beijing checked •1280x720
-8TV,https://histar.zapi.us.kg/?id=8tv
-06-14-2024 checked
-TV9,https://histar.zapi.us.kg/?id=tv9
-06-14-2024 checked
-
-CM+,https://histar.zapi.us.kg/?id=cm-plus
-06-14-2024 checked
-TV1,https://histar.zapi.us.kg/?id=tv1-my
-06-14-2024 checked
-TV2,https://histar.zapi.us.kg/?id=tv2-my
-06-14-2024 checked
-TV3,https://histar.zapi.us.kg/?id=tv3-my
-06-14-2024 checked
-AXN,https://histar.zapi.us.kg/?id=axn
-06-14-2024 checked
-TVS,https://histar.zapi.us.kg/?id=tvs
-06-14-2024 checked
-Gem,https://histar.zapi.us.kg/?id=gem
-06-14-2024 checked
-Boo,https://histar.zapi.us.kg/?id=boo
-06-14-2024 checked
-
-NBA,https://histar.zapi.us.kg/?id=nba
-06-14-2024 checked
-HLN,https://histar.zapi.us.kg/?id=cnn-hln
-06-14-2024 checked
-CNN,https://histar.zapi.us.kg/?id=cnn
-06-14-2024 checked
-SBS,https://histar.zapi.us.kg/?id=sbs
-06-14-2024 checked
-J2,https://histar.zapi.us.kg/?id=j2
