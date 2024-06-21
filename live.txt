@@ -46,51 +46,26 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 农业致富,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 热播精选,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
-翡翠台,http://histar.zapi.us.kg/?id=feicui
-HKC 18台,http://histar.zapi.us.kg/?id=hkc18
-J2,http://histar.zapi.us.kg/?id=j2
-TVB 华语剧台,http://histar.zapi.us.kg/?id=tvb-drama
-广东珠江,http://histar.zapi.us.kg/?id=gdzj
-龙祥电影台,http://histar.zapi.us.kg/?id=lstime
-CHC高清电影,http://histar.zapi.us.kg/?id=chc-gqdy
-美亚电影台,http://histar.zapi.us.kg/?id=meiah-movies
-CHC家庭影院,http://histar.zapi.us.kg/?id=chc-jtyy
-CHC动作电影,http://histar.zapi.us.kg/?id=chc-dzdy
-好莱坞电影,http://histar.zapi.us.kg/?id=hollywood-movie
-HBO Signature HD,http://histar.zapi.us.kg/?id=hbo-signature
-大湾区卫视,http://histar.zapi.us.kg/?id=gdwqws
-TVB粤语片台,http://histar.zapi.us.kg/?id=tvb-yueyu
-Astro 欢喜台,http://histar.zapi.us.kg/?id=astro-huaheedai
-小尼克频道,http://histar.zapi.us.kg/?id=nick-jr
-东森幼幼台,http://histar.zapi.us.kg/?id=ebc-yoyo
-Animax 卡通,http://histar.zapi.us.kg/?id=animax-cartoon
-凤凰香港,http://histar.zapi.us.kg/?id=phtv-hk
-天映经典,http://histar.zapi.us.kg/?id=cccm
-东森电影,http://histar.zapi.us.kg/?id=ebc-movie
-TVB华剧台,http://histar.zapi.us.kg/?id=golden-chinese-drama
-TVB星河台,http://histar.zapi.us.kg/?id=tvb-xinghe
-Now HBO Hits,http://histar.zapi.us.kg/?id=now-hbo-hits
-天映频道,http://histar.zapi.us.kg/?id=celestial
-星空卫视,http://histar.zapi.us.kg/?id=star-xing-kong
-香港卫视,http://histar.zapi.us.kg/?id=hks
-TVB翡翠台,http://histar.zapi.us.kg/?id=golden-jade
-东森洋片,http://histar.zapi.us.kg/?id=ebc-emovie
+TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVB翡翠台,http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8
 TVB娱乐台,http://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
 华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Wlt
+TVB新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVB星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVB明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+凤凰中文台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰中文台,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰香港台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰香港台,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+凤凰资讯台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰资讯台,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 TVBJ2台,http://php.jdshipin.com:8880/smt.php?id=j2_twn
 TVB星河台,http://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB功夫台,http://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB星河台,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
 TVB娱乐台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB功夫台,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-TVB直播台,http://edge6a.v2h-cdn.com/liveshow/liveshow.stream/chunklist.m3u8
-TVB翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-TVB新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-TVB星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-TVB明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
-凤凰中文台,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-凤凰香港台,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
-凤凰资讯台,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+广东珠江,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel65/index.m3u8
 探索世界,http://61.221.215.25:8800/hls/1/index.m3u8
 鳳凰資訊,http://61.221.215.25:8800/hls/47/index.m3u8
 八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
