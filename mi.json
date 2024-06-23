@@ -1,6 +1,6 @@
 {
-    "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-    "spider": "./custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6",
+	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713263749769/fan.txt;md5;c84c36278bd8bc95a63449a128074be0",
+	"wallpaper": "https://深色壁纸.xxooo.cf/",
     "lives": [
         {
           "name": "本地live",
@@ -539,7 +539,6 @@
 				"type": "rect",
 				"ratio": 1.597
 			},
-{"key":"纸条","name":"纸条","type":3,"api":"csp_Paper","ext":"http://我不是.肥猫.love:63/token.php","jar":"https://download.kstore.space/download/2883/fm.jar"},
 {"key": "演唱会","name": "音乐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/13498/%E9%9F%B3%E4%B9%900728.json?sign=nw2Dm2cw56XIw5E_HywESTF7a7zHbV8LAi0UP8Xodrk%3D%3A0","jar":"https://share.nite07.com/api/v3/file/source/17166/0825bilijar.jpg?sign=4FEigfQGmVR61Rxt-2eVZMrnWmPrw_Q07yYixbfQKZ0%3D%3A0;md5;c5c337bb2793598e9aa5953898fbb087"},
 {"key":"音乐","name":"音2","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
 {"key": "戏曲","name": "粤曲","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/13497/%E6%88%8F%E6%9B%B20728.json?sign=PcPxnP_C3MhBMjrW45c8kCzBXBeOM7nfW5_ZRG8qWhw%3D%3A0","jar":"https://share.nite07.com/api/v3/file/source/17166/0825bilijar.jpg?sign=4FEigfQGmVR61Rxt-2eVZMrnWmPrw_Q07yYixbfQKZ0%3D%3A0;md5;c5c337bb2793598e9aa5953898fbb087"},
