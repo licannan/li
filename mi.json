@@ -1,32 +1,17 @@
-{
-	"spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713263749769/fan.txt;md5;c84c36278bd8bc95a63449a128074be0",
-	"wallpaper": "https://深色壁纸.xxooo.cf/",
-    "lives": [
-        {
-          "name": "本地live",
-          "type":"0",
-          "pass": true,
-          "url":"http://live.mdcl.cn",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-        {
-          "name": "IPV6",
-          "type":"0",
-          "pass": true,
-          "url": "http://zb.mdcl.cn",
-          "epg": "https://epg.112114.xyz/?ch={name}&date={date}",     
-          "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }
-    ],
-  "warningText": "MDCL",
+{//"spider":"https://share.nite07.com/api/v3/file/source/18596/0901tvbox.jar?sign=bceG3edJT2NJlsLRxNcO6Cr6zgwwUfs6svpViF3RWfI%3D%3A0",
+"spider":"https://download.kstore.space/download/2883/PY/1031.jar",
+//"spider":"https://download.kstore.space/download/2883/PY/1031xBPQ.jar",
+"wallpaper":"https://api.yimian.xyz/img?type=wallpaper",
+//"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+  "lives":[{"name":"本地live","type":0,"url":"http://live.mdcl.cn","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
+  "warningText": "🚀MDCL",
 "sites":[{        "key":"影视",
-         "name":"🚀MDCL",
+         "name":"MDCL",
 "type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1,
 "jar":"https://download.kstore.space/download/2883/nzk/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"},
 {
          "key":"影视",
-         "name":"🌈猫TV直播",        
+         "name":"猫TV直播",        
 "type": 3,
 			"api": "https://d.kstore.space/download/2883/sdtv.js",
 			"ext": "https://d.kstore.space/download/2883/sdtv.txt",
