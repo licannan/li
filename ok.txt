@@ -502,126 +502,6 @@
       "filterable": 1,
       "ext": "https://download.kstore.space/download/2883/nzk/策驰影视.json"
     },
-    {
-      "key": "csp_345",
-      "name": "影视②①",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/nzk/345看片.json"
-    },
-    {
-      "key": "csp_91",
-      "name": "影视②②",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/nzk/91影视.json"
-    },
-    {
-      "key": "csp_七年",
-      "name": "影视②③",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/nzk/七年影视.json"
-    },
-    {
-      "key": "csp_酷茶",
-      "name": "影视②④",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/nzk/酷茶影视.json"
-    },
-    {
-      "key": "csp_007",
-      "name": "影视②⑤",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/nzk/007影视.json"
-    },
-    {
-      "key": "csp_明帝",
-      "name": "影视②⑥",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/nzk/明帝影视.json"
-    },
-    {
-      "key": "csp_苹果",
-      "name": "影视②⑦",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/nzk/苹果影视.json"
-    },
-    {
-      "key": "csp_光棍",
-      "name": "影视②⑧",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/nzk/光棍影视.json"
-    },
-    {
-      "key": "csp_米爱",
-      "name": "影视②⑨",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/nzk/米爱影视.json"
-    },
-    {
-      "key": "csp_灰太狼",
-      "name": "影视③⑩",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/nzk/灰太狼影视.json"
-    },
-    {
-      "key": "mtv_xp_动漫巴士",
-      "name": "影视③①",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/nzk/动漫巴士.json"
-    },
-    {
-      "key": "mtv_xp_维奇动漫",
-      "name": "影视③②",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/nzk/维奇动漫.json"
-    },
 {"key":"csp_Anime1","name":"动漫","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"百度资源","name":"百度*资源","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"天空*资源","name":"天空*资源","type":1,"api":"https://api.tiankongapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -711,16 +591,7 @@
 {"key": "*哥妹","name": "*哥妹","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key": "*速度","name": "*速度","type": 0,"api": "http://www.ggmmzy.com:9999/inc/xml"},
 {"key": "*大地","name": "*大地","type": 0,"api": "https://dadiapi.com/api.php/"},
-{"key": "*乐播","name": "*乐播","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml"},
-{"key": "*23","name": "*23","type": 0,"api": "https://caiji.523zyw.com/inc/seacmsapi.php","playUrl": "https://api.523zyw.com/?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key":"*AR","name":"*AR","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key": "csp_biubiu_聚优AV解说","name": "*AV","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/13499/1659728367.json?sign=mWT_PDoQ8s3knShjP-clZfc9te2LLj3fMmCreBTnLYs%3D%3A0","jar":"https://share.nite07.com/api/v3/file/source/13506/PlutoPlayer0809.jar?sign=oimgymZ_MrsqcB6br2k_L4ZO7lewoGyt7m3kMezDuLw%3D%3A0;md5;B2CCC22142714422B8C7953448BA6C4E"},
-{"key": "csp_biubiu_聚优国产传媒","name": "*传媒","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/13504/1659738051.json?sign=3cTiXFraPlasNjaAp4ueli7nnXK6CjguKNnss1LQnAw%3D%3A0","jar":"https://share.nite07.com/api/v3/file/source/13506/PlutoPlayer0809.jar?sign=oimgymZ_MrsqcB6br2k_L4ZO7lewoGyt7m3kMezDuLw%3D%3A0;md5;B2CCC22142714422B8C7953448BA6C4E"},
-{"key": "csp_biubiu_聚优超清资源","name": "*超清","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/13505/1659712157.json?sign=BX2hmExdZnn3WqeA9JKJndvcRns9q7o18VnwYN7CbBw%3D%3A0","jar":"https://share.nite07.com/api/v3/file/source/13506/PlutoPlayer0809.jar?sign=oimgymZ_MrsqcB6br2k_L4ZO7lewoGyt7m3kMezDuLw%3D%3A0;md5;B2CCC22142714422B8C7953448BA6C4E"},
-{"key": "csp_biubiu_聚优香蕉资源","name": "*香蕉","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/13503/1659731638.json?sign=gUM-R1n6Zaf0Uoap3ZVrZD_DUqXWK_FMmjdOBFbFFA8%3D%3A0","jar":"https://share.nite07.com/api/v3/file/source/13506/PlutoPlayer0809.jar?sign=oimgymZ_MrsqcB6br2k_L4ZO7lewoGyt7m3kMezDuLw%3D%3A0;md5;B2CCC22142714422B8C7953448BA6C4E"},
-{"key": "csp_biubiu_聚优桃花资源","name": "*桃花","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/13500/1659716049.json?sign=7BZ6F9uq54_uNiawk22rFLWyJLlzlVdExzXx58gCjyE%3D%3A0","jar":"https://share.nite07.com/api/v3/file/source/13506/PlutoPlayer0809.jar?sign=oimgymZ_MrsqcB6br2k_L4ZO7lewoGyt7m3kMezDuLw%3D%3A0;md5;B2CCC22142714422B8C7953448BA6C4E"},
-{"key": "csp_biubiu_聚优废柴网资源","name": "*废柴","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/13501/1659722405.json?sign=XPb45E4PWbQAmPaCFKe_B-Tz3RlYG4C9ttkZIadujds%3D%3A0","jar":"https://share.nite07.com/api/v3/file/source/13506/PlutoPlayer0809.jar?sign=oimgymZ_MrsqcB6br2k_L4ZO7lewoGyt7m3kMezDuLw%3D%3A0;md5;B2CCC22142714422B8C7953448BA6C4E"},
-{"key": "csp_biubiu_聚优久久热资源","name": "*久久","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://share.nite07.com/api/v3/file/source/13502/1659769398.json?sign=rhQRJRgzrLm4sDqrlEE1QClFBPGVtIBlhLVkIZRM464%3D%3A0","jar":"https://share.nite07.com/api/v3/file/source/13506/PlutoPlayer0809.jar?sign=oimgymZ_MrsqcB6br2k_L4ZO7lewoGyt7m3kMezDuLw%3D%3A0;md5;B2CCC22142714422B8C7953448BA6C4E"}
+{"key": "*乐播","name": "*乐播","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml"}
 	],
 	"doh": [{
 		"name": "Google",
